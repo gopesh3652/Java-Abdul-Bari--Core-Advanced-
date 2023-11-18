@@ -1,0 +1,6 @@
+Display number in wordes
+
+1) Take input
+2) reverse the number and make it a string
+3) take another loop
+4) write a switch case to write the word related to number

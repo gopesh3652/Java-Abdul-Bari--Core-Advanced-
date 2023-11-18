@@ -2,12 +2,12 @@
 
 import java.util.Scanner;
 
-public class Sc2 {
+public class SC2 {
 
-  public static void main(String args[]) {
+  public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);
 
-    /*   String num;
+    /*/*   String num;
         num = sc.nextLine();
         if(num.matches("[01]+")) {
             System.out.println("Binary");

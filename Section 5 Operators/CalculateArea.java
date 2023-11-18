@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 class CalculateArea {
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         double base, height, area;
         System.out.println("Enter the dimension of base and height : ");
